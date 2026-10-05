@@ -1,4 +1,17 @@
 <resources>
+    <string name="intents_title">Практика: Intent</string>
+    <string name="input_instructions">Введите текст для второй Activity или отправки. Для звонка введите номер телефона, например +7 (999) 123-45-67.</string>
+    <string name="input_hint">Текст или номер телефона</string>
+    <string name="open_second_activity">Открыть вторую Activity</string>
+    <string name="dial_friend">Позвонить другу</string>
+    <string name="share_text">Поделиться текстом</string>
+    <string name="share_chooser">Поделиться через…</string>
+    <string name="empty_input">Введите текст или номер телефона</string>
+    <string name="invalid_phone">Введите от 3 до 15 цифр. Допустимы + в начале, пробелы, скобки и дефисы.</string>
+    <string name="no_handler">На устройстве нет приложения для этого действия</string>
+    <string name="received_text_title">Полученный текст</string>
+    <string name="no_text">Текст не передан</string>
+    <string name="back_to_first">Назад</string>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
